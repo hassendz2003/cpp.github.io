@@ -953,7 +953,7 @@
                     staticClass: "d2x-benefits-box"
                 }, [a("i", {
                     staticClass: "fas fa-redo-alt"
-                }), a("h4", [t._v("Daily TRON Dividends")]), a("p", [t._v("Everyday 97% of the previous day's TRX that was spent in the Auction Lobby will be pooled and allocated to users based upon their completed stake terms.")])])]), a("div", {
+                }), a("h4", [t._v("Daily TRON Dividends")]), a("p", [t._v("Everyday 98% of the previous day's TRX that was spent in the Auction Lobby will be pooled and allocated to users based upon their completed stake terms.")])])]), a("div", {
                     staticClass: "col-md-4 col-sm-6",
                     attrs: {
                         "data-aos": "fade-left"
