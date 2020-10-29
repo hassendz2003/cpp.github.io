@@ -412,17 +412,17 @@
                     staticClass: "col-md-10 col-lg-10"
                 }, [n("ul", {
                     staticClass: "menu"
-                }, [n("li", [n("a", {
+                }, [n("li", [n("router-link", {
                     attrs: {
-                        href: "https://csetron.com/staking-lobby"
+                        to: "/stake"
                     }
-                }, [t._v("Stake")])], 1), n("li", [n("a", {
+                }, [t._v("Stake")])], 1), n("li", [n("router-link", {
                     attrs: {
-                        href: "https://csetron.com/auction-lobby"
+                        to: "/auction"
                     }
-                }, [t._v("Auction")])], 1), n("li", [n("a", {
+                }, [t._v("Auction")])], 1), n("li", [n("router-link", {
                     attrs: {
-                        href: "https://csetron.com/referrals"
+                        to: "/referral"
                     }
                 }, [t._v("Referral")])], 1), n("li", [n("a", {
                     attrs: {
@@ -481,17 +481,17 @@
                     attrs: {
                         href: "https://csetron.com"
                     }
-                }, [n("v-list-item", [t._v("Home")])], 1), n("a", {
+                }, [n("v-list-item", [t._v("Home")])], 1), n("router-link", {
                     attrs: {
-                        href: "https://csetron.com/staking-lobby"
+                        to: "/stake"
                     }
-                }, [n("v-list-item", [t._v("Stake")])], 1), n("a", {
+                }, [n("v-list-item", [t._v("Stake")])], 1), n("router-link", {
                     attrs: {
-                        href: "https://csetron.com/auction-lobby"
+                        to: "/auction"
                     }
-                }, [n("v-list-item", [t._v("Auction")])], 1), n("a", {
+                }, [n("v-list-item", [t._v("Auction")])], 1), n("router-link", {
                     attrs: {
-                        href: "https://csetron.com/referrals"
+                        to: "/referral"
                     }
                 }, [n("v-list-item", [t._v("Referral")])], 1), n("a", {
                     attrs: {
@@ -532,17 +532,17 @@
                     staticClass: "col-md-6"
                 }, [n("ul", {
                     staticClass: "footer-menu"
-                }, [n("li", [n("a", {
+                }, [n("li", [n("router-link", {
                     attrs: {
-                        href: "https://csetron.com/staking-lobby"
+                        to: "/stake"
                     }
-                }, [t._v("Stake")])], 1), n("li", [n("a", {
+                }, [t._v("Stake")])], 1), n("li", [n("router-link", {
                     attrs: {
-                        href: "https://csetron.com/auction-lobby"
+                        to: "/auction"
                     }
-                }, [t._v("Auction")])], 1), n("li", [n("a", {
+                }, [t._v("Auction")])], 1), n("li", [n("router-link", {
                     attrs: {
-                        href: "https://csetron.com/referrals"
+                        to: "/referral"
                     }
                 }, [t._v("Referral")])], 1), n("li", [n("a", {
                     attrs: {
