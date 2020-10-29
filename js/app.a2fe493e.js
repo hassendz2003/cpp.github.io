@@ -1237,20 +1237,7 @@
                     }
                 }, [t._v(" mdi-clock ")]), a("span", {
                     staticClass: "caption grey--text font-weight-light"
-                }, [t._v("last updated: " + t._s(t.getTime()))])], 1)], 1), a("v-toolbar", {
-                    staticClass: "titlebar mt-5 pl-0",
-                    attrs: {
-                        flat: ""
-                    }
-                }, [a("v-toolbar-title",), a("v-spacer"), a("p", {
-                    staticStyle: {
-                        color: "white !important"
-                    }
-                })], 1), a("v-card", [a("v-expansion-panels", {
-                    attrs: {
-                        focusable: ""
-                    }
-                }, 1)], 1)], 1), a("v-col", {
+                }, [t._v("last updated: " + t._s(t.getTime()))])], 1)], 1), a([a("v-expansion-panels", 1)], 1)], 1), a("v-col", {
                     staticClass: "pa-2",
                     attrs: {
                         lg: "8",
@@ -2455,12 +2442,7 @@
                 attrs: {
                     block: ""
                 }
-            }, [t._v(" " + t._s(t.TRXDividends))])], 1)], 1), a("v-toolbar", {
-                staticClass: "titlebar mt-5 pl-0",
-                attrs: {
-                    flat: ""
-                }
-            }, 1),], 1), a("v-col", {
+            }, [t._v(" " + t._s(t.TRXDividends))])], 1)], 1),], 1), a("v-col", {
                 staticClass: "pa-2",
                 attrs: {
                     lg: "8",
@@ -3490,7 +3472,7 @@
                     required: ""
                 }
             }), t._v(), a("v-btn", {
-                staticClass: "mt-1 mb-6",
+
                 staticStyle: {
                     background: "linear-gradient(90deg, #07d662 0%, #07d662 100%)"
                 },
