@@ -3471,7 +3471,7 @@
                     value: t.referral,
                     required: ""
                 }
-            }), t._v(), a("v-btn", {
+            }), a("v-btn", {
 
                 staticStyle: {
                     background: "linear-gradient(90deg, #07d662 0%, #07d662 100%)"
