@@ -477,17 +477,17 @@
                     attrs: {
                         "active-class": "deep-purple lighten-3"
                     }
-                }, [n("router-link", {
+                }, [n("a", {
                     attrs: {
-                        to: "/"
+                        href: "https://csetron.com"
                     }
                 }, [n("v-list-item", [t._v("Home")])], 1), n("a", {
                     attrs: {
                         href: "https://csetron.com/staking-lobby"
                     }
-                }, [n("v-list-item", [t._v("Stake")])], 1), n("router-link", {
+                }, [n("v-list-item", [t._v("Stake")])], 1), n("a", {
                     attrs: {
-                        to: "/auction"
+                        href: "https://csetron.com/auction-lobby"
                     }
                 }, [n("v-list-item", [t._v("Auction")])], 1), n("a", {
                     attrs: {
