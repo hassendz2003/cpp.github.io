@@ -493,7 +493,11 @@
                     attrs: {
                         href: "https://csetron.com/referrals"
                     }
-                }, [n("v-list-item", [t._v("Referral")])], 1)], 1)], 1)], 1), n("v-main", [n("router-view")], 1), n("div", [n("footer", [n("div", {
+                }, [n("v-list-item", [t._v("Referral")])], 1), n("a", {
+                    attrs: {
+                        href: "https://csetron.com/faqs"
+                    }
+                }, [n("v-list-item", [t._v("FAQs")])], 1)], 1)], 1)], 1), n("v-main", [n("router-view")], 1), n("div", [n("footer", [n("div", {
                     staticClass: "container-fluid"
                 }, [n("div", {
                     staticClass: "row footer-wrapper"
