@@ -426,7 +426,7 @@
                     }
                 }, [t._v("Referral")])], 1), n("li", [n("a", {
                     attrs: {
-                        href: "https://tronscan.io/#/contract/TKsGKnpN64B8pcG5WNwLzsy9PGamWHkAD6"
+                        href: "https://tronscan.org/#/contract/TVs1rRWrBkgQ5zxksYJuCeGthFohjKUGyy"
                     }
                 }, [t._v("Contract")])], 1), n("li", [n("a", {
                     attrs: {
@@ -546,7 +546,7 @@
                     }
                 }, [t._v("Referral")])], 1), n("li", [n("a", {
                     attrs: {
-                        href: "https://tronscan.io/#/contract/TKsGKnpN64B8pcG5WNwLzsy9PGamWHkAD6"
+                        href: "https://tronscan.org/#/contract/TVs1rRWrBkgQ5zxksYJuCeGthFohjKUGyy"
                     }
                 }, [t._v("Contract")])], 1), n("li", [n("a", {
                     attrs: {
@@ -559,7 +559,7 @@
             i = a.n(o),
             l = a("7f45"),
             c = a.n(l),
-            u = "TKsGKnpN64B8pcG5WNwLzsy9PGamWHkAD6",
+            u = "TVs1rRWrBkgQ5zxksYJuCeGthFohjKUGyy",
             d = localStorage.getItem("referrerAddress") || "TUkY7QsBEX4EBSvhuTFeswFTap8UV3baYc";
 
         function f(t, e, a, n, r, s, o) {
