@@ -416,9 +416,9 @@
                     attrs: {
                         href: "https://csetron.com/auction-lobby"
                     }
-                }, [t._v("Auction")])], 1), n("li", [n("router-link", {
+                }, [t._v("Auction")])], 1), n("li", [n("a", {
                     attrs: {
-                        to: "/stake"
+                        href: "https://csetron.com/staking-lobby"
                     }
                 }, [t._v("Staking")])], 1), n("li", [n("router-link", {
                     attrs: {
