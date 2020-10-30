@@ -412,27 +412,27 @@
                     staticClass: "col-md-10 col-lg-10"
                 }, [n("ul", {
                     staticClass: "menu"
-                }, [n("li", [n("a", {
-                    attrs: {
-                        href: "https://csetron.com/auction-lobby"
-                    }
-                }, [t._v("Auction Lobby")])], 1), n("li", [n("router-link", {
+                }, [n("li", [n("router-link", {
                     attrs: {
                         to: "/stake"
                     }
-                }, [t._v("Staking Lobby")])], 1), n("li", [n("router-link", {
+                }, [t._v("Stake")])], 1), n("li", [n("router-link", {
+                    attrs: {
+                        to: "/auction"
+                    }
+                }, [t._v("Auction")])], 1), n("li", [n("router-link", {
                     attrs: {
                         to: "/referral"
                     }
                 }, [t._v("Referral")])], 1), n("li", [n("a", {
                     attrs: {
-                        href: "https://csetron.com/faqs"
-                    }
-                }, [t._v("FAQs")])], 1), n("li", [n("a", {
-                    attrs: {
                         href: "https://tronscan.org/#/contract/TVs1rRWrBkgQ5zxksYJuCeGthFohjKUGyy"
                     }
-                }, [t._v("Contract")])]), n("countdown", {
+                }, [t._v("Contract")])], 1), n("li", [n("a", {
+                    attrs: {
+                        href: "https://csetron.com/faqs"
+                    }
+                }, [t._v("FAQs")])]), n("countdown", {
                     attrs: {
                         time: t.countdownTime,
                         transform: t.transform
