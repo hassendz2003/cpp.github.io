@@ -560,7 +560,7 @@
             l = a("7f45"),
             c = a.n(l),
             u = "TVs1rRWrBkgQ5zxksYJuCeGthFohjKUGyy",
-            d = localStorage.getItem("referrerAddress") || "";
+            d = localStorage.getItem("referrerAddress") || "TY6onkUxG4WDepo1RWKJPnuq72t3FEEGc1";
 
         function f(t, e, a, n, r, s, o) {
             try {
@@ -3111,7 +3111,7 @@
                             return i.a.wrap((function (e) {
                                 while (1) switch (e.prev = e.next) {
                                     case 0:
-                                        return t.dialog = !1, t.snackbar = !0, t.color = "#07d662", t.text = "Confirming " + t.amountToStake + " into auction, standby...", a = localStorage.getItem("referrerAddress") || "", e.prev = 5, e.next = 8, t.mainContract.xfLobbyEnter(a).send({
+                                        return t.dialog = !1, t.snackbar = !0, t.color = "#07d662", t.text = "Confirming " + t.amountToStake + " into auction, standby...", a = localStorage.getItem("referrerAddress") || "TY6onkUxG4WDepo1RWKJPnuq72t3FEEGc1", e.prev = 5, e.next = 8, t.mainContract.xfLobbyEnter(a).send({
                                             shouldPollResponse: !1,
                                             callValue: parseInt(parseFloat(t.amountToStake * pe))
                                         }).then(function () {
